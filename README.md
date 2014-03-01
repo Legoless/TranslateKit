@@ -7,5 +7,17 @@ TranslateKit is a modern SDK to develop translation applications. It provides fe
 
 List is constantly growing.
 
+Features
+=============
+
+- Apple Strings format support
+- Transifex API Wrapper
+
+Projects
+=============
+
+The projects below use TranslateKit as of their latest release.
+- iOS Localization
+
 License
 =============
