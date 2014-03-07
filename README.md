@@ -17,7 +17,7 @@ Projects
 =============
 
 The projects below use TranslateKit as of their latest release.
-- iOS Localization
+- [iOS Localization](https://github.com/Legoless/iOS-Localization)
 
 License
 =============
